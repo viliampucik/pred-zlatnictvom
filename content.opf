@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uuid" prefix="calibre: https://calibre-ebook.com">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title id="id">Pred zlatníctvom: rozjímanie o sviatosti manželstva, chvíľami prechádzajúce do drámy</dc:title>
+    <dc:creator id="id-1">Karol Wojtyła (kardinál)</dc:creator>
+    <dc:identifier>google:-stvGQAACAAJ</dc:identifier>
+    <dc:identifier>isbn:9788096695782</dc:identifier>
+    <dc:identifier>calibre:4</dc:identifier>
+    <dc:identifier>uuid:da92c80f-669f-419c-bb47-74372267a39e</dc:identifier>
+    <dc:identifier id="uuid">Id_FDB08DAA-7E56-43A9-AC8D-9864998AE021_</dc:identifier>
+    <dc:language>sk-SK</dc:language>
+    <dc:date>2000-03-14T23:00:00+00:00</dc:date>
+    <dc:publisher>Verbum</dc:publisher>
+    <meta refines="#id" property="title-type">main</meta>
+    <meta refines="#id" property="file-as">Pred zlatníctvom: rozjímanie o sviatosti manželstva, chvíľami prechádzajúce do drámy</meta>
+    <meta name="cover" content="cover-image"/>
+    <meta property="dcterms:modified">2019-03-02T21:25:06Z</meta>
+    <meta property="role" refines="#id-1" scheme="marc:relators">aut</meta>
+    <meta property="file-as" refines="#id-1">Wojtyła, Karol</meta>
+    <meta property="calibre:author_link_map">{"Karol Wojtyła (kardinál)": ""}</meta>
+  </metadata>
+  <manifest>
+    <item href="cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
+    <item href="navigation.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+    <item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="introduction.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="chapter-1.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="chapter-2.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="chapter-3.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="toc" media-type="application/x-dtbncx+xml"/>
+    <item href="main.css" id="id8" media-type="text/css"/>
+    <item href="cover.jpg" id="cover-image" media-type="image/jpeg" properties="cover-image"/>
+  </manifest>
+  <spine toc="toc">
+    <itemref idref="cover"/>
+    <itemref idref="nav" linear="no"/>
+    <itemref idref="id0"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+  </spine>
+</package>
